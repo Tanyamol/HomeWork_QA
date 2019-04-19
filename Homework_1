@@ -1,9 +1,0 @@
-open on /index.php 
-setWindowSize on 925x728 
-click on //*[@id="block_top_menu"]/ul/li[2]/a with value Dresses
-verifyElementPresent on //*[@id="center_column"]/h1/span[1] with value Dresses
-click on //*[@id="center_column"]/ul/li[2]/div/div[2]/h5/a with value Printed Dress 
-click on css=.exclusive > span 
-Trying to find css=.button-medium > span... 
-verifyElementPresent on //*[@id="product_4_16_0_156380"]/td[1]/a/img 
-'part1_homework1' completed successfully
